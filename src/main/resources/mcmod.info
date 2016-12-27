@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gud_lib",
+  "name": "GudLib",
+  "description": "A library mod by gudenau.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["gudenau"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
